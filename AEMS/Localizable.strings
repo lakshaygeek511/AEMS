@@ -1,0 +1,37 @@
+
+/** Launch Labels */
+"INTRO_LABELS" = "Simplify Enquiry Operations\n\nStreamline Business with AEMS\n\nEfficiently Track & Fulfill Enquires";
+
+
+/** SignUp VC Alerts */
+"ALERT_EMPTY_FIELDS" = "Empty Fields";
+"ALERT_USERNAME" = "Empty User Name";
+"ALERT_FULL_NAME" = "Empty Full Name";
+"ALERT_PASSWORD" = "Empty Password";
+"ALERT_SEL_USER" = "Please Select User";
+"ALERT_PASSWORD_FORMAT" = "Invalid Password Format\nRefer Password Policy";
+"ALERT_PASSWORD_POLICY" = "Requires at least one Lowercase, Uppercase Letter & one Digit & one Special Letter from Set [@$!%*?&]";
+"ALERT_USERNAME_EXIST" = "User already registered with this username";
+"ALERT_SIGNUP" = "Signed Up Successfully";
+
+
+/** SignIn VC Alerts */
+"ALERT_AUTH_SUCCESS" = "Authorized";
+"ALERT_AUTH_FAILURE" = "Unauthorized";
+"ALERT_PASSWORD_MATCH" = "Incorrect Password";
+
+/** Home VC Alerts */
+"ALERT_CUST_NAME" = "Empty Customer Name";
+"ALERT_PHONE_NO" = "Empty Phone No";
+"ALERT_PHONE_NO_FORMAT" = "Invalid Phone No Format";
+"ALERT_EMAIL" = "Empty Email";
+"ALERT_EMAIL_FORMAT" = "Invalid Email Format";
+"ALERT_ADDRESS" = "Empty Address";
+"ALERT_QUANTITY" = "Invalid Quantity\nMaximum 25";
+"ALERT_LOC_SEL" = "Please Select Location";
+"ALERT_PROD_SEL" = "Please Select Product";
+"ALERT_STATUS" = "Please Select Status";
+"ALERT_CREATE_UPDATE" = "Create Enquiry Before Update";
+"ALERT_SEL_UPDATE" = "Select Enquiry For Update";
+"ALERT_SIGNOUT" = "Signed Out Successfully";
+"ALERT_USERNAME_FAILURE" = "Incorrect Username\n Unregistered User";
